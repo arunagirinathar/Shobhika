@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1551197710
-ModificationTime: 1558798043
+ModificationTime: 1558798261
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1583,13 +1583,13 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 43227 27 9
+WinInfo: 57294 27 9
 BeginPrivate: 2
 BlueValues 23 [-12 0 500 512 700 712]
 OtherBlues 11 [-215 -200]
 EndPrivate
 AnchorClass2: "Anchor-0" "'abvm' Above Base Mark lookup 0 subtable" "Anchor-1" "'abvm' Above Base Mark lookup 1 subtable" "Anchor-2" "'blwm' Below Base Mark lookup 2 subtable" "Anchor-3" "'blwm' Below Base Mark lookup 3 subtable"
-BeginChars: 67128 2496
+BeginChars: 67128 2500
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -121326,6 +121326,87 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'blws' Below Base Substitutions lookup 149 subtable" Sha.dv matraRu.dv
+EndChar
+
+StartChar: uniA8FB
+Encoding: 43259 43259 2496
+Width: 297
+Flags: HW
+HStem: -19 21G<166 166> 598 102<0 59 0 0 166 307 -56 363 166 166>
+VStem: 59 107<36 598 -19 598>
+AnchorPoint: "Anchor-1" 260 0 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+59 598 m 1
+ 0 598 l 1
+ -56 700 l 1
+ 307 700 l 1
+ 363 598 l 1
+ 166 598 l 1
+ 59 598 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE009
+Encoding: 57353 57353 2497
+Width: 297
+Flags: W
+HStem: -19 21G<166 166> 598 102<0 59 0 0 166 307 -56 363 166 166>
+VStem: 59 107<36 598 -19 598>
+AnchorPoint: "Anchor-1" 260 0 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+59 598 m 1
+ 0 598 l 1
+ -56 700 l 1
+ 307 700 l 1
+ 363 598 l 1
+ 166 598 l 1
+ 59 598 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE00A
+Encoding: 57354 57354 2498
+Width: 539
+Flags: HW
+HStem: -19 21G<166 166> 598 102<0 59 0 0 166 307 -56 363 166 166>
+VStem: 59 107<36 598 -19 598>
+AnchorPoint: "Anchor-1" 260 0 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+59 598 m 1
+ 0 598 l 1
+ -56 700 l 1
+ 567 700 l 1
+ 623 598 l 1
+ 166 598 l 1
+ 59 598 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE00B
+Encoding: 57355 57355 2499
+Width: 895
+Flags: HW
+HStem: -19 21G<166 166> 598 102<0 59 0 0 166 307 -56 363 166 166>
+VStem: 59 107<36 598 -19 598>
+AnchorPoint: "Anchor-1" 260 0 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+59 598 m 1
+ 0 598 l 1
+ -56 700 l 1
+ 917 700 l 1
+ 973 598 l 1
+ 166 598 l 1
+ 59 598 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
